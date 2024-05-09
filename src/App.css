@@ -35,4 +35,8 @@
   to {
     transform: rotate(360deg);
   }
+  h1 {
+    font-family: 'Georgia', sans-serif; /* Cambia 'Arial' por la fuente que desees */
+  }
+  
 }
